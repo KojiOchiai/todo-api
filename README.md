@@ -16,4 +16,4 @@ poetry run uvicorn main:app --reload
 - http://127.0.0.1:8000/redoc
 
 # reference
-http://127.0.0.1:8000/redoc
+- https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
